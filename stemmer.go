@@ -5,7 +5,7 @@ import (
 	"strings"
 	"unicode"
 
-	"bitbucket.org/tebeka/snowball"
+	"github.com/tebeka/snowball"
 	"golang.org/x/text/transform"
 	"golang.org/x/text/unicode/norm"
 )

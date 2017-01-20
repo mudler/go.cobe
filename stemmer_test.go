@@ -1,7 +1,7 @@
 package cobe
 
 import "testing"
-import "bitbucket.org/tebeka/snowball"
+import "github.com/tebeka/snowball"
 
 func TestCobeStemmer(t *testing.T) {
 	snow, _ := snowball.New("english")

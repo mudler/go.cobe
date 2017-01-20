@@ -11,9 +11,9 @@ import (
 
 import (
 	"github.com/cactus/go-statsd-client/statsd"
-	cobe "github.com/pteichman/go.cobe"
-	"github.com/pteichman/go.cobe/console"
-	"github.com/pteichman/go.cobe/ircbot"
+	cobe "github.com/mudler/go.cobe"
+	"github.com/mudler/go.cobe/console"
+	"github.com/mudler/go.cobe/ircbot"
 )
 
 var cpuprofile = flag.String("cpuprofile", "", "write cpu profile to file")

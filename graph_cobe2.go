@@ -16,7 +16,7 @@ import (
 )
 
 import (
-	"bitbucket.org/tebeka/snowball"
+	"github.com/tebeka/snowball"
 	_ "github.com/mattn/go-sqlite3"
 )
 

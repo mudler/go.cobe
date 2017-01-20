@@ -8,7 +8,7 @@ import (
 	"time"
 
 	irc "github.com/fluffle/goirc/client"
-	cobe "github.com/pteichman/go.cobe"
+	cobe "github.com/mudler/go.cobe"
 )
 
 type Options struct {
